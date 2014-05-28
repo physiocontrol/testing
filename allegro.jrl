@@ -1,0 +1,72 @@
+\t (00:00:02) allegro 16.6 S024 (v16-6-112BT) Windows 32
+\t (00:00:02)     Journal start - Tue May 20 13:16:32 2014
+\t (00:00:02)         Host=HOBSOJ1-L1 User=hobsoj1 Pid=20644 CPUs=4
+\t (00:00:02) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe C:\Users\hobsoj1\Documents\GitHub\testing\res1210n.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) axlTriggerSet save was successful
+\t (00:00:04) Opening existing design...
+\i (00:00:05) fillin yes 
+\d (00:00:05) Design opened: C:/Users/hobsoj1/Documents/GitHub/testing/res1210n.dra
+\i (00:00:06) trapsize 232
+\i (00:00:06) trapsize 227
+\i (00:00:06) trapsize 232
+\i (00:00:07) trapsize 205
+\i (00:00:07) trapsize 292
+\i (00:00:07) generaledit 
+\i (00:00:10) zoom out 1 
+\i (00:00:10) setwindow pcb
+\i (00:00:10) zoom out 37.66 -45.07
+\i (00:00:10) trapsize 585
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 22.39 -49.75
+\i (00:00:11) trapsize 292
+\i (00:00:11) zoom in 1 
+\i (00:00:11) setwindow pcb
+\i (00:00:11) zoom in 22.39 -49.75
+\i (00:00:11) trapsize 146
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 22.39 -49.74
+\i (00:00:12) trapsize 73
+\i (00:00:12) zoom out 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom out 41.83 -39.21
+\i (00:00:12) trapsize 146
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 41.84 -39.22
+\i (00:00:13) trapsize 292
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 41.84 -39.22
+\i (00:00:14) trapsize 146
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 41.84 -39.22
+\i (00:00:14) trapsize 292
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 41.84 -39.22
+\i (00:00:14) trapsize 585
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in 166.19 -49.74
+\i (00:00:15) trapsize 292
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 158.00 -43.90
+\i (00:00:16) trapsize 146
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 158.00 -43.90
+\i (00:00:17) trapsize 292
+\i (00:00:17) zoom out 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom out 158.00 -43.90
+\i (00:00:17) trapsize 585
+\i (00:00:18) exit 
+\e (00:00:18) Do you want to save the changes you made to res1210n.dra?
+\i (00:00:20) fillin no 
+\t (00:00:20)     Journal end - Tue May 20 13:16:51 2014
