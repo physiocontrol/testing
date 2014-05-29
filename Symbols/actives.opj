@@ -1,0 +1,42 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File "C:\Users\hobsoj1\Desktop\ACTIVES.OLB"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (EXPORT_Scope "0")
+    (EXPORT_Contents "0")
+    (EXPORT_File_Name
+       "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.EXP"))
+  (Folder "Outputs"
+    (File ".\actives.exp"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\Users\hobsoj1\Desktop\ACTIVES.OLB")
+      (Path "Outputs")
+      (Select "Design Resources" "C:\Users\hobsoj1\Desktop\ACTIVES.OLB"
+         "MSP430F5329IPN"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 934 1868 0 735"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1669 25 535")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "0 0")
+        (Zoom "104"))
+      (Path "C:\USERS\HOBSOJ1\DESKTOP\ACTIVES.OLB")
+      (Package "MT29F4G08ABADAH4-ITX")))
+  (MPSSessionName "hobsoj1"))

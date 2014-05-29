@@ -1,0 +1,131 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\actives.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\actives.olb")
+      (Select "Design Resources" ".\actives.olb" "BAT54A/SOT"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 621 0 697"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 50 1698 50 564")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2955 825")
+        (Zoom "469"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "OPAMP_DUAL_8P_ALT"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1723 75 589")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2964 825")
+        (Zoom "469"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "OPAMP_DUAL_8P"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1748 100 614")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3147 854")
+        (Zoom "491"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "OPAMP_QUAD_TSSOP"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 125 1773 125 639")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2931 825")
+        (Zoom "469"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "OPAMP_SINGLE_SOT23-5"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1798 150 664")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "7216 1990")
+        (Zoom "1005"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "DIODE _SOT23-3"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 175 1823 175 689")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4939 1361")
+        (Zoom "720"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "DIODE _SCHOTTKY"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 200 1848 200 714")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "7216 1990")
+        (Zoom "1005"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "DIODE _SCHOTTKY_SOT23"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 225 1873 225 739")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3299 893")
+        (Zoom "513"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "ACPL-W61L"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 1648 0 514")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "2878 817")
+        (Zoom "459"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ACTIVES.OLB")
+      (Package "BAT54A/SOT")))
+  (MPSSessionName "hobsoj1"))

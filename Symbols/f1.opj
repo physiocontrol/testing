@@ -1,0 +1,30 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\electro-mech.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (EXPORT_Scope "0")
+    (EXPORT_Contents "0")
+    (EXPORT_File_Name
+       "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\ELECTRO-MECH.EXP"))
+  (Folder "Outputs"
+    (File ".\electro-mech.exp"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\electro-mech.olb")
+      (Path "Outputs")
+      (Select "Design Resources" ".\electro-mech.olb" "BANANA_DUAL"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 934 0 735"))
+      (Tab 0)))
+  (MPSSessionName "hobsoj1"))

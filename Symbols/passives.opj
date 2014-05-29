@@ -1,0 +1,59 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\passives.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\passives.olb")
+      (Select "Design Resources" ".\passives.olb" "X2Y_FILTER"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 934 0 735"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 25 1669 25 535")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3471 951")
+        (Zoom "534"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\PASSIVES.OLB")
+      (Package "DLW43S"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 150 1798 150 664")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "4134 1160")
+        (Zoom "617"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\PASSIVES.OLB")
+      (Package "T_FILTER"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 225 1873 225 739")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "7021 1935")
+        (Zoom "982"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\PASSIVES.OLB")
+      (Package "FILTER_DIRECTIONAL")))
+  (MPSSessionName "hobsoj1"))

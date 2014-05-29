@@ -1,5 +1,1 @@
-Here are instructions for using this repository.
-
-Will this go on my branch?
-
-NEW fork!
+Here are instructions for using this repository, to be added later.

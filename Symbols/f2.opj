@@ -1,0 +1,35 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\new-a.olb"
+      (Type "Schematic Library"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\new-a.olb")
+      (Select "Design Resources" ".\new-a.olb" "AD8217"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 317 0 735"))
+      (Tab 0))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1719 75 585")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "3710 823")
+        (Zoom "563"))
+      (Path
+         "J:\R&D\FUNCTIONAL_GROUPS\PCB_DESIGN\MASTER_LIBRARY\SCH_SYMBOLS\NEW-A.OLB")
+      (Package "AD8217")))
+  (MPSSessionName "hobsoj1"))
